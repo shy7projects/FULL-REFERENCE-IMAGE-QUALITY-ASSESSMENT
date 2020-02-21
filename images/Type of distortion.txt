@@ -1,0 +1,19 @@
+Type of distortion        
+
+1       Additive Gaussian noise
+2       Additive noise in color components is more intensive than additive noise in the luminance component
+3       Spatially correlated noise
+4       Masked noise
+5       High frequency noise
+6       Impulse noise
+7       Quantization noise
+8       Gaussian blur
+9       Image denoising
+10      JPEG compression
+11      JPEG2000 compression
+12      JPEG transmission errors
+13      JPEG2000 transmission errors
+14      Non eccentricity pattern noise
+15      Local block-wise distortions of different intensity
+16      Mean shift (intensity shift)
+17      Contrast change
